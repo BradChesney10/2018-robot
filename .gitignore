@@ -1,0 +1,5 @@
+*.kate-swp
+
+lede-17.01.1-x86-generic-combined-ext4.img
+lede-17.01.1-x86-generic-combined-ext4.vdi
+2017-11-29-raspbian-stretch-lite.img
